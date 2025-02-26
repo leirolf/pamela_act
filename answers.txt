@@ -1,0 +1,9 @@
+dubria_pamela_floriel
+
+Answer the following:
+- What challenges did you face during this activity?
+for now i find it kind of easy? probably because eventhough i am really not familliar with how to do it but with the right resources i was able to do it for now. 	Im not really that confident but ill do it anyways. 
+- Which Git command was the most confusing?
+probably most of them as a matter of fact i have been exposed to git commands ever since 2nd yr however for some reason i still find it confusing because i typically forgot which is which and how to use them but if i recall then i can do it. 
+- How can version control help in real-world software development?
+i think it is very useful especially to track your projects changes and to have a swift collaboration within the team so i guess it really is helpful even us students use it for this purpose. 
